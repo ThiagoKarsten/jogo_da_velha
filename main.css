@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+  }
+
+h1{
+    background-color:cadetblue;
+    padding: 10px;
+    text-align: center;
+}
+
+p{
+    padding: 10px;
+    background-color: aquamarine;
+}
+
+table{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+td{
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+    font-size: 80px;
+    text-align: center;
+    cursor: pointer;
+}
+
+td:hover{
+    background-color: rgb(173, 165, 165);
+}
